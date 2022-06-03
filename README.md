@@ -1,5 +1,7 @@
 # PilasDinamicas_Excep
 
+UEA: Estructuras de Datos Lineales.
+
 Notación infija es la notación "tradicional"
 b x c
 Se llama infija debido a que el operador se encuentra "entre" los dos operandos.
